@@ -4,7 +4,7 @@
 
 | Sobre Mim | Contato |
 | --- | --- |
-| <ul><li>💻 Estudante de Engenharia da Computação</li><li>🎓 Graduando na [Universidade São Judas Tadeu](https://www.saojudas.br/)</li><li>📚 Atualmente estudando Engenharia de Software na [École 42 SP](https://www.42sp.org.br/)</li><li>🌱 Focado em C, Python e Java</li><li>🤝 Aberto a oportunidades de estágio em TI</li></ul> | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-tanaka-359232285/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeltanakax@gmail.com) |
+| <ul><li>💻 Estudante de Engenharia da Computação</li><li>🎓 Graduando na [Universidade São Judas Tadeu](https://www.saojudas.br/)</li><li>📚 Atualmente estudando Engenharia de Software na [École 42 SP](https://www.42sp.org.br/)</li><li>🌱 Focado em C, C++, Python e Java</li><li>🤝 Aberto a oportunidades de estágio em TI</li></ul> | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-tanaka-359232285/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeltanakax@gmail.com) |
 
 ## 🛠️ Ferramentas e Tecnologias
 
