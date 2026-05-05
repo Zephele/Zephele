@@ -9,7 +9,7 @@
 ## 🛠️ Ferramentas e Tecnologias
 
 <div align="left">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/></code>title="C"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="C++"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/></code>
